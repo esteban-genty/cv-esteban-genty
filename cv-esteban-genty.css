@@ -1,0 +1,42 @@
+/*Paramètre du fond*/
+body {
+  background-color: rgb(255, 255, 255); /* Le fond de la page sera noir */
+  background-size: cover;  /* Ajuste la taille de l'image de fond pour couvrir tout l'écran. */
+  background-attachment: fixed;  /* Fixe l'image de fond en place lors du défilement. */
+}
+
+/*Paramètre du texte*/
+* {
+  font-family: Avenir, sans-serif;  /* Definit la police*/
+  text-align: center;
+  color: rgb(74, 74, 74);
+}
+
+.titre {
+  font-size: 40px;
+  font-weight: 100;
+  text-align : center;
+}
+
+.tinfo{
+  font-size: 25px;
+  text-align: center;
+}
+
+.tobjectif{
+  font-size: 25px;
+}
+
+.txp{
+  font-size: 25px;
+}
+
+.tetude{
+  font-size: 25px;
+}
+
+.tcompetence{
+  font-size: 25px;
+}
+
+
